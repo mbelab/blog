@@ -29,3 +29,5 @@ This means that all thoughts and texts reflect the free opinion of the author(s)
 In no case should others be harmed or copyrights disregarded.
 
 Included graphics are sketches created by the author(s).
+
+Links contained lead to external websites whose content is not the responsibility of the author(s).
