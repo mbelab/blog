@@ -6,6 +6,6 @@ I just started this public blog to collect my thoughts to some topics, grouped i
 
 Additionally i also collect lists with important things like links and tools.
 
-**Edit**
+**Edit:**
 
 I added a disclaimer chapter to the repository readme and hope that's fine for my purpose.
