@@ -4,3 +4,6 @@
 
 # private directories (also in subdirectories)
 **private/
+
+# obsidian directory
+.obsidian/*
