@@ -1,0 +1,4 @@
+# gitignore
+
+# private directories (also in subdirectories)
+private/
